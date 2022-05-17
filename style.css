@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Beauty Blog</title>
-    <h1> Welcome to the Beauty Blog!</h1>
-
-  </head>
-</html>
+h1{
+  font-weight: 100;
+}
