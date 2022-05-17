@@ -1,0 +1,14 @@
+/* CSS HEX */
+--melon: #ffcfc2ff;
+--raisin-black: #222430ff;
+--seashell: #fff6f2ff;
+--rhythm: #857c8dff;
+--pewter-blue: #95afb2ff;
+
+*{
+  background-color: seashell;
+}
+
+h1{
+  font-weight: bold;
+}
