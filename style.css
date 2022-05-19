@@ -13,8 +13,10 @@ body {
 h1{
   font-weight: bold;
   font-family: "Didot", serif;
+  text-align: center;
 }
 
 p{
   font-family: "Didot", serif;
+  text-align: center;
 }
