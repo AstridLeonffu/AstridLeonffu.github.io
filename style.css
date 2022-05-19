@@ -1,12 +1,12 @@
 /* CSS HEX */
---melon: #ffcfc2ff;
+/*--melon: #ffcfc2ff;
 --raisin-black: #222430ff;
 --seashell: #FFF5F2;
 --rhythm: #857c8dff;
---pewter-blue: #95afb2ff;
+--pewter-blue: #95afb2ff;*/
 
 body {
-  background-color: #FFF5F2;
+  background: #FFF5F2;
 }
 
 h1{
