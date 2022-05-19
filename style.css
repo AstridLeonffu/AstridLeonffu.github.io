@@ -13,3 +13,8 @@ h1{
   font-weight: bold;
   font-family: "Didot", serif;
 }
+
+
+body {
+  overflow-y: scroll;
+}
