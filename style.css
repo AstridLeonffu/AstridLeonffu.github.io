@@ -19,5 +19,5 @@ p{
 }
 
 body {
-  overflow-y: scroll;
+  overflow: scroll;
 }
