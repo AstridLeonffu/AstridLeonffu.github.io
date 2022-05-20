@@ -16,9 +16,20 @@ h1{
   text-align: center;
 }
 
+h3{
+  font-family: "Didot", serif;
+  text-align: left;
+  font-size:  6px;
+  color: #282321;
+  padding: 2px;
+}
+
+
 p{
   font-family: "Didot", serif;
   text-align: center;
+  color: #282321;
+  padding: 10px;
 }
 
 .skincare {
