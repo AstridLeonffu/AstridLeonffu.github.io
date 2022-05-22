@@ -22,20 +22,20 @@ header {
 ul {
   margin: 30px auto;
   padding: 0 20px;
-  text-align: center;
+  text-align: left;
 }
 
 li {
   color: #282321;
   font-family: "Didot", serif;
   font-size: 10px;
-  font-weight: 300;
+  font-weight: 500;
   display: inline-block;
-  width: 80px;  
+  width: 100px;  
 }
 
 li:hover {
-  color: #DBE9EE;
+  color: #FAF2ED;
 }
 
 h1{
