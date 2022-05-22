@@ -13,7 +13,6 @@ body {
 
 header {
   background-color: #FAF2ED;
-  border-bottom: 1px solid #466995;
   position: fixed;
   width: 100%;
   z-index: 10;
@@ -74,7 +73,7 @@ p{
 
 /* Header/Logo Title */
 .header {
-  padding: 10px;
+  padding: 0px;
   text-align: center;
   background: #ffcfc2ff;
   color: #222430ff;
