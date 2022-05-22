@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #FFCFC2;
+  background-color: #FAF2ED;
   border-bottom: 3px solid #F0E1D8;
   border-top: 3px solid #F0E1D8;
   border-right: 3px solid #F0E1D8;
@@ -84,7 +84,7 @@ p{
   text-align: center;
   box-sizing: border-box;
   position: relative;
-  background: ##FFCFC2;
+  background: #FFCFC2;
   color: #222430ff;
   font-size: 30px;
 }
