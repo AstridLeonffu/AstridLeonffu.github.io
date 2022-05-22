@@ -1,5 +1,5 @@
 /* CSS HEX */
-/*--melon: ##FFCFC2;
+/*--melon: #FFCFC2;
 --raisin-black: #282321;
 --lighter-black: #2C2624;
 --seashell: #FFF5F2;
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #FAF2ED;
+  background-color: #FFCFC2;
   border-bottom: 3px solid #F0E1D8;
   border-top: 3px solid #F0E1D8;
   border-right: 3px solid #F0E1D8;
