@@ -13,13 +13,14 @@ body {
 
 header {
   background-color: #FAF2ED;
+  border-bottom: 1px solid #466995;
   position: fixed;
   width: 100%;
   z-index: 10;
 } 
 
 ul {
-  margin: 30px;
+  margin: 30px auto;
   padding: 0 20px;
   text-align: left;
 }
@@ -73,7 +74,7 @@ p{
 
 /* Header/Logo Title */
 .header {
-  padding: 0px;
+  padding: 10px;
   text-align: center;
   background: #ffcfc2ff;
   color: #222430ff;
