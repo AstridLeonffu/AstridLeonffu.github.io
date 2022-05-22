@@ -1,13 +1,37 @@
 /* CSS HEX */
-/*--melon: #ffcfc2ff;
+/*--melon: #ffcfßc2ff;
 --raisin-black: #282321;
 --seashell: #FFF5F2;
 --rhythm: #857c8dff;
---pewter-blue: #95afb2ff;*/
+--pewter-blue: #95afb2ff;
+--champange-pink: #F7E7DE;*/
 
 body {
   background: #FFF5F2;
   overflow: scroll;
+}
+
+header {
+  background-color: #F7E7DE;
+  border-bottom: 1px solid #466995;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+} 
+
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+li {
+  color: #282321;
+  font-family: "Didot", serif;
+  font-size: 10px;
+  font-weight: 300;
+  display: inline-block;
+  width: 80px;  
 }
 
 h1{
