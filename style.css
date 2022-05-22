@@ -28,10 +28,10 @@ ul {
 li {
   color: #282321;
   font-family: "Didot", serif;
-  font-size: 10px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 1000;
   display: inline-block;
-  width: 100px;  
+  width: 150px;  
 }
 
 li:hover {
