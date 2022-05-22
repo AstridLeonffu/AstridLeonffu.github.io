@@ -11,6 +11,7 @@
 body {
   background: #FFF5F2;
   overflow: scroll;
+  margin: 0px;
 }
 
 header {
