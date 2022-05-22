@@ -1,10 +1,11 @@
 /* CSS HEX */
-/*--melon: #ffcfßc2ff;
+/*--melon: ##FFCFC2;
 --raisin-black: #282321;
 --lighter-black: #2C2624;
 --seashell: #FFF5F2;
 --pewter-blue: #95afb2ff;
 --darker sheashell: #F0E1D8;
+--dark brown:  #4E2B22;
 --champange-pink: #FAF2ED;*/
 
 body {
@@ -39,7 +40,7 @@ li {
 }
 
 li:hover {
-  color: #2C2624;
+  color: #4E2B22;
 }
 
 h1{
@@ -64,7 +65,7 @@ p{
   padding: 10px;
 }
 
-.skincare {
+/*.skincare {
   margin: 530 520;
 }
 
@@ -74,7 +75,7 @@ p{
 
 .makeup {
   margin: 530 520;
-}
+}*/
 
 /* Header/Logo Title */
 .header {
@@ -83,7 +84,7 @@ p{
   text-align: center;
   box-sizing: border-box;
   position: relative;
-  background: #ffcfc2ff;
+  background: ##FFCFC2;
   color: #222430ff;
   font-size: 30px;
 }
