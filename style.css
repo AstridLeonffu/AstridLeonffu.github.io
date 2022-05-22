@@ -4,6 +4,7 @@
 --lighter-black: #2C2624;
 --seashell: #FFF5F2;
 --pewter-blue: #95afb2ff;
+--darker sheashell: #F0E1D8;
 --champange-pink: #FAF2ED;*/
 
 body {
@@ -13,7 +14,10 @@ body {
 
 header {
   background-color: #FAF2ED;
-  border-bottom: 1px solid #466995;
+  border-bottom: 1px solid #F0E1D8;
+  border-top: 1px solid #F0E1D8;
+  border-right: 1px solid #F0E1D8;
+  border-left: 1px solid #F0E1D8;
   position: fixed;
   width: 100%;
   z-index: 10;
