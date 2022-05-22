@@ -79,6 +79,7 @@ p{
 /* Header/Logo Title */
 .header {
   padding: 10px;
+  padding-top: 50px;
   text-align: center;
   box-sizing: border-box;
   position: relative;
@@ -87,3 +88,9 @@ p{
   font-size: 30px;
 }
 
+.image {
+  text-shadow: 2px 2px #95afb2ff;
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
