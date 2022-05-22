@@ -25,7 +25,7 @@ header {
 
 ul {
   margin: 30px auto;
-  padding: 0 20px;
+  padding: 20 20px;
   text-align: left;
 }
 
@@ -51,7 +51,7 @@ h1{
 h3{
   font-family: "Didot", serif;
   text-align: left;
-  font-size:  60px;
+  font-size:  30px;
   color: #282321;
   padding: 2px;
 }
