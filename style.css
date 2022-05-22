@@ -4,7 +4,7 @@
 --seashell: #FFF5F2;
 --rhythm: #857c8dff;
 --pewter-blue: #95afb2ff;
---champange-pink: #F7E7DE;*/
+--champange-pink: #FAF2ED;*/
 
 body {
   background: #FFF5F2;
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #F7E7DE;
+  background-color: #FAF2ED;
   border-bottom: 1px solid #466995;
   position: fixed;
   width: 100%;
