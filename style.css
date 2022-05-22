@@ -14,10 +14,10 @@ body {
 
 header {
   background-color: #FAF2ED;
-  border-bottom: 1px solid #F0E1D8;
-  border-top: 1px solid #F0E1D8;
-  border-right: 1px solid #F0E1D8;
-  border-left: 1px solid #F0E1D8;
+  border-bottom: 3px solid #F0E1D8;
+  border-top: 3px solid #F0E1D8;
+  border-right: 3px solid #F0E1D8;
+  border-left: 3px solid #F0E1D8;
   position: fixed;
   width: 100%;
   z-index: 10;
@@ -80,6 +80,8 @@ p{
 .header {
   padding: 10px;
   text-align: center;
+  box-sizing: border-box;
+  position: relative;
   background: #ffcfc2ff;
   color: #222430ff;
   font-size: 30px;
