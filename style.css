@@ -34,6 +34,10 @@ li {
   width: 80px;  
 }
 
+li:hover {
+  color: #DBE9EE;
+}
+
 h1{
   font-weight: bold;
   font-family: "Didot", serif;
