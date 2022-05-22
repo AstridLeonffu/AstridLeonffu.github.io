@@ -1,8 +1,8 @@
 /* CSS HEX */
 /*--melon: #ffcfßc2ff;
 --raisin-black: #282321;
+--lighter-black: #2C2624;
 --seashell: #FFF5F2;
---rhythm: #857c8dff;
 --pewter-blue: #95afb2ff;
 --champange-pink: #FAF2ED;*/
 
@@ -35,7 +35,7 @@ li {
 }
 
 li:hover {
-  color: #FAF2ED;
+  color: #2C2624;
 }
 
 h1{
