@@ -4,6 +4,7 @@
 --lighter-black: #2C2624;
 --seashell: #FFF5F2;
 --pewter-blue: #95afb2ff;
+--lavender: #8f93e4;
 --darker sheashell: #F0E1D8;
 --dark brown:  #4E2B22;
 --champange-pink: #FAF2ED;*/
@@ -60,6 +61,18 @@ h3{
   padding: 2px;
 }
 
+h4 {
+  font-family: "Didot", serif;
+  display: block;
+  font-size: 20px;
+  line-height: 7px;
+  margin: 10px;
+  margin-right: 920px;
+  padding: 13px;
+  position: relative;
+  color: #282321;
+  background-color: #8f93e4;
+}
 
 p{
   font-family: 'Anek Devanagari', sans-serif;
@@ -121,3 +134,5 @@ p{
 .title{
   font-family: 'Marcellus', serif;
 }
+
+
