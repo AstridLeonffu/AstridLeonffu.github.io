@@ -34,7 +34,7 @@ ul {
 
 li {
   color: #282321;
-  font-family: "Didot", serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 15px;
   font-weight: 1000;
   display: inline-block;
@@ -61,7 +61,7 @@ h3{
 
 
 p{
-  font-family: "Didot", serif;
+  font-family: 'Anek Devanagari', sans-serif;
   text-align: center;
   color: #282321;
   padding: 10px;
@@ -98,4 +98,6 @@ p{
   font-size: 30px;
 }
 
-
+.title{
+  font-family: 'Marcellus', serif;
+}
