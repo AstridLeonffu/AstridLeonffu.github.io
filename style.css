@@ -10,7 +10,7 @@
 --champange-pink: #FAF2ED;*/
 
 body {
-  background: #F0E1D8;
+  background: #FFF5F2;
   overflow: scroll;
   margin: 0px;
 }
@@ -135,9 +135,4 @@ p{
   font-family: 'Marcellus', serif;
 }
 
-.blogs{
-  background-color: #FFF5F2;
-  padding: 200px;
-  border: 15px solid ;
-  border-radius: 15px;
-}
+
