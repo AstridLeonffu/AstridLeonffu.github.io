@@ -62,7 +62,6 @@ h3{
 }
 
 
-
 p{
   font-family: 'Anek Devanagari', sans-serif;
   font-size: 130%;
@@ -70,6 +69,15 @@ p{
   color: #282321;
   padding: 10px;
 
+}
+
+.subsection{
+  font-family: 'Barlow', sans-serif;
+  font-weight: 500;
+  text-align: left;
+  padding: 15px;
+  border: 15px;
+  margin: 15px;
 }
 
 .skincare {
