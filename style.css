@@ -90,6 +90,7 @@ p{
 .skincare {
   margin: 530 520;
   background-color: #F0E1D8;
+  border-radius: 5px;
 }
 
 .skincare-image{
@@ -110,11 +111,13 @@ p{
 .hera {
   margin: 530 520;
   background-color: #F0E1D8;
+  border-radius: 5px;
 }
 
 .makeup {
   margin: 530 520;
   background-color: #F0E1D8;
+  border-radius: 5px;
 }
 
 /* Header/Logo Title */
