@@ -84,11 +84,13 @@ p{
   font-family: 'Barlow', sans-serif;
   font-weight: 100;
   border-radius: 5px;
+
 }
 
 .skincare {
   margin: 530 520;
-  background-color: #FFF5F2;
+  background-color: #F0E1D8;
+  border-radius: 30px;
 }
 
 .skincare-image{
@@ -108,12 +110,14 @@ p{
 
 .hera {
   margin: 530 520;
-  background-color: #FFF5F2;
+  background-color: #F0E1D8;
+  border-radius: 30px;
 }
 
 .makeup {
   margin: 530 520;
-  background-color: #FFF5F2;
+  background-color: #F0E1D8;
+  border-radius: 30px;
 }
 
 /* Header/Logo Title */
