@@ -82,22 +82,25 @@ p{
 
 .skincare {
   margin: 530 520;
+  background-color: #4E2B22;
 }
 
 .skincare-image{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 35%;
   height: auto;
+  position: relative;
 }
 
 .nomakeup-image{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
+  width: 35%;
   height: auto;
+  position: relative;
 }
 
 .HERA-image{
@@ -106,14 +109,17 @@ p{
   margin-right: auto;
   width: 35%;
   height: auto;
+  position: relative;
 }
 
 .hera {
   margin: 530 520;
+  background-color: #4E2B22;
 }
 
 .makeup {
   margin: 530 520;
+  background-color: #4E2B22;
 }
 
 /* Header/Logo Title */
