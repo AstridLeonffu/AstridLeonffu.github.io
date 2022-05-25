@@ -71,13 +71,15 @@ p{
 
 }
 
-.subsection{
-  font-family: 'Barlow', sans-serif;
-  font-weight: 500;
-  text-align: left;
-  padding: 15px;
-  border: 15px;
-  margin: 15px;
+.subsection {
+  padding: 10px;
+  padding-top: 80px;
+  text-align: center;
+  box-sizing: border-box;
+  position: relative;
+  background: #FFCFC2;
+  color: #222430ff;
+  font-size: 30px;
 }
 
 .skincare {
