@@ -73,13 +73,18 @@ p{
 
 .subsection {
   padding: 10px;
-  padding-top: 80px;
-  text-align: center;
+  padding-left: 30px;
+  text-align: left;
+  width: 130px;
+  margin-left: 10px;
   box-sizing: border-box;
   position: relative;
   background: #FFCFC2;
-  color: #222430ff;
-  font-size: 30px;
+  font-size: 12px;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 100;
+  border-radius: 5px;
+
 }
 
 .skincare {
