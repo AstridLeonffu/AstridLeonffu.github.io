@@ -6,11 +6,12 @@
 --pewter-blue: #95afb2ff;
 --lavender: #8f93e4;
 --darker sheashell: #F0E1D8;
+--lighter sheashell:  #fffbfa;
 --dark brown:  #4E2B22;
 --champange-pink: #FAF2ED;*/
 
 body {
-  background: #FFF5F2;
+  background: #fffbfa;
   overflow: scroll;
   margin: 0px;
 }
@@ -18,10 +19,10 @@ body {
 header {
   margin: 0px;
   background-color: #FAF2ED;
-  border-bottom: 3px solid #F0E1D8;
-  border-top: 3px solid #F0E1D8;
-  border-right: 3px solid #F0E1D8;
-  border-left: 3px solid #F0E1D8;
+  border-bottom: 3px solid #e3c6b6;
+  border-top: 3px solid #e3c6b6;
+  border-right: 3px solid #e3c6b6;
+  border-left: 3px solid #e3c6b6;
   position: fixed;
   width: 100%;
   z-index: 10;
