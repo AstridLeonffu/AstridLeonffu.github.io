@@ -69,8 +69,7 @@ p{
   text-align: center;
   color: #282321;
   padding: 10px;
-  margin-left: 600;
-  margin-right: 600;
+  background-color: #F0E1D8;
 
 }
 
@@ -147,8 +146,12 @@ p{
 .title{
   font-family: 'Marcellus', serif;
   text-align: left;
+<<<<<<< Updated upstream
   margin-left: 15px;
   padding-top: 10px;
+=======
+  margin-left: 10px;
+>>>>>>> Stashed changes
 }
 
 .footer{
