@@ -146,8 +146,12 @@ p{
 .title{
   font-family: 'Marcellus', serif;
   text-align: left;
+<<<<<<< Updated upstream
   margin-left: 15px;
   padding-top: 10px;
+=======
+  margin-left: 10px;
+>>>>>>> Stashed changes
 }
 
 .footer{
