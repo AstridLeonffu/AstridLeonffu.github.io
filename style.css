@@ -68,8 +68,9 @@ p{
   text-align: center;
   color: #282321;
   padding: 10px;
-  margin-left: 600px;
-  margin-right: 600px;
+  margin-left: 600;
+  margin-right: 600;
+
 }
 
 .subsection {
@@ -105,8 +106,17 @@ p{
 }
 
 .HERA-image{
+<<<<<<< Updated upstream
   text-align: center;
   position: relative;
+=======
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  height: auto;
+  border-radius: 15px;
+>>>>>>> Stashed changes
 }
 
 .hera {
@@ -140,4 +150,7 @@ p{
   padding-top: 10px;
 }
 
-
+.footer{
+  text-align: right;
+  
+}
