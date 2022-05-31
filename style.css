@@ -163,15 +163,9 @@ p{
 
 .home{
   padding: 10px;
-  padding-left: 30px;
   text-align: right;
   width: 130px;
-  margin-left: 10px;
-  box-sizing: border-box;
   position: relative;
-  background: #FFCFC2;
   font-size: 12px;
   font-family: 'Barlow', sans-serif;
-  font-weight: 100;
-  border-radius: 5px;
 }
