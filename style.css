@@ -166,6 +166,10 @@ p{
   text-align: right;
   width: 130px;
   position: relative;
-  font-size: 12px;
+  font-size: 15px;
   font-family: 'Barlow', sans-serif;
+}
+
+home:hover{
+  color: #8f93e4;
 }
